@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @fanalysis
-- 👀 I’m interested in stocks,crypto
-- 🌱 I’m currently learning websockets
-- 💞️ I’m looking to collaborate on live algos
 - 📫 How to reach me: here
 
 <!---
